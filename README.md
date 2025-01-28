@@ -2,7 +2,7 @@
 
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/nijad-bayramli-63aa9716a/">NIJAD</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/nijad-bayramli-63aa9716a/">NIJAD BAYRAMLI</a></b>
         </samp>
 </h1>
 
