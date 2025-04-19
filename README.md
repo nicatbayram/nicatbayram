@@ -47,17 +47,18 @@
 ```dart
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Python", "Javascript", "HTML", "CSS", "SQL" },
-    "Frameworks and Libraries" : { "Django, "React.js" },
-    "Mobile " : { "React-Native" },
-    "Database" : { "PostgreSQL", "Sqlite". "MySQL" },
-    "Editors" : { "Vscode", "Xcode", "Sublime" },
-    "Platforms" : { "Mac", "Windows" },
-    "OtherTools" : { "Git",  "GitLab" }
+class About extends Me {
+  const myTools = {
+    "ProgrammingLanguages": ["Python", "JavaScript", "HTML", "CSS", "SQL"],
+    "FrameworksAndLibraries": ["Django", "React.js"],
+    "Mobile": ["React Native"],
+    "Database": ["PostgreSQL", "SQLite", "MySQL"],
+    "Editors": ["VSCode", "Xcode", "Sublime Text"],
+    "Platforms": ["macOS", "Windows"],
+    "OtherTools": ["Git", "GitLab"]
   };
 }
+
 ```
 
 
